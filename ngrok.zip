@@ -1,0 +1,12 @@
+--2019-07-29 21:11:45--  https://github.com/tchelospy/NgrokTest/blob/master/ngrok-stable-linux-arm.zip
+Resolving github.com... 140.82.114.3
+Connecting to github.com|140.82.114.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘ngrok-stable-linux-arm.zip’
+
+     0K .......... .......... .......... .......... ..........  145K
+    50K .......... .                                           5.01M=0.3s
+
+2019-07-29 21:11:47 (176 KB/s) - ‘ngrok-stable-linux-arm.zip’ saved [62741]
+
